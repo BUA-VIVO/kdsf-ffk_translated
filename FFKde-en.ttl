@@ -31,9 +31,7 @@
 
 ###  ArbeitUndWirtschaft
 <ArbeitUndWirtschaft> a skos:Concept ;
-    skos:narrower <ArbeitUndWirtschaftAllgemein> ,
-                  <ArbeitsweltUndGestaltung> ,
-                  <DigitaleWirtschaft> ;
+    skos:narrower <ArbeitUndWirtschaftAllgemein>, <ArbeitsweltUndGestaltung>, <DigitaleWirtschaft> ;
     skos:prefLabel "Arbeit und Wirtschaft"@de ,
                     "Work and Economy"@en ;
     skos:topConceptOf <> .
@@ -301,11 +299,7 @@ skos:topConceptOf <> .
 
 ###  Infrastruktur
 <Infrastruktur> a skos:Concept ;
-    skos:narrower <BallungsraeumeUndStadtentwicklung> ,
-               <BauenUndWohnen> ,
-               <InfrastrukturAllgemein> ,
-               <InfrastrukturUndNetze> ,
-               <MobilitaetTransportUndVerkehr> ;
+    skos:narrower <BallungsraeumeUndStadtentwicklung>, <BauenUndWohnen>, <InfrastrukturAllgemein>, <InfrastrukturUndNetze> , <MobilitaetTransportUndVerkehr> ;
     skos:prefLabel "Infrastructure"@en ,
                 "Infrastruktur"@de ;
     skos:topConceptOf <> .
@@ -966,7 +960,7 @@ skos:topConceptOf <> .
     skos:example "Familie im Digitalen Wandel, Sozialer Wandel, Kinderrecht, Gleichgeschlechtliche Lebensweise, Geschlechtliche Vielfalt, Gerechtigkeit, Soziale Norm"@de ,
                "Familie im Digitalen Wandel, Sozialer Wandel, Kinderrecht, Gleichgeschlechtliche Lebensweise, Geschlechtliche Vielfalt, Gerechtigkeit, Soziale Norm"@en ;
     skos:inScheme <> ;
-    skos:prefLabel "Values ​​and Change"@en ,
+    skos:prefLabel "Values and Change"@en ,
     "Werte und Wandel"@de ;
     skos:scopeNote "Forschung zu Werten und Normen eines Individuums und sozialen Kategorien einer Gesellschaft, sowie deren Wandel; zu zwischenmenschlichen Beziehungen und Kindererziehung"@de ,
     "Forschung zu Werten und Normen eines Individuums und sozialen Kategorien einer Gesellschaft, sowie deren Wandel; zu zwischenmenschlichen Beziehungen und Kindererziehung"@en .
