@@ -44,9 +44,9 @@
     skos:broader <ArbeitUndWirtschaft> ;
     skos:prefLabel "Arbeit und Wirtschaft - Allgemein"@de ,
                    "Work and Economy - General"@en ;
+    skos:inScheme <> ;
     skos:scopeNote "Forschung über Aspekte von Arbeit und Wirtschaft im Allgemeinen"@de ,
                   "Research on aspects of work and the economy in general"@en .
-    skos:inScheme <> ;
 
 
 ###  ArbeitsweltUndGestaltung
@@ -56,21 +56,21 @@
             "Working conditions, home office, unconditional basic income, employment, work-life balance"@en ;
     skos:prefLabel "Arbeitswelt und -gestaltung"@de ,
               "Workplace and workplace design"@en ;
+    skos:inScheme <> ;
     skos:scopeNote "Forschung über alle Formen der Arbeit und des Arbeitsmarkts und wie diese sich wandeln; neben Erwerbsarbeit und Nichterwerbsarbeit auch neue Formen der Beschäftigung; Arbeitsteilung; Auswirkungen auf Gesundheit und andere Aspekte des Lebens"@de ,
               "Research on all forms of work and the labor market and how these are changing; in addition to gainful employment and non-gainful employment, there are also new forms of employment; division of labor; effects on health and other aspects of life"@en .
-    skos:inScheme <> ;
 
 
 ###  BallungsraeumeUndStadtentwicklung
 <BallungsraeumeUndStadtentwicklung> a skos:Concept ;
     skos:broader <Infrastruktur> ;
+    skos:inScheme <> ;
     skos:example "Stadtplanung, Stadtentwicklungspolitik, Stadtentwicklungsplanung, Stadtentwicklungskonzept, Kommunalplanung, Urbane Räume, Verdichtungsraum, Verdichtungsgebiet, Stadtregion, Metropolregion, Agglomerationsraum"@de ,
                  "Urban planning, urban development policy, urban development planning, urban development concept, municipal planning, urban areas, agglomeration, agglomeration area, urban region, metropolitan area"@en ;
     skos:prefLabel "Ballungsräume und Stadtentwicklung"@de ,
                    "Metropolitan areas and urban development"@en ;
     skos:scopeNote "Forschung zu Stadtentwicklung und Leben in der Stadt und Ballungsräumen; Smart City-Forschung"@de ,
                    "Research on urban development and life in the city and metropolitan areas; Smart City Research"@en .
-    skos:inScheme <> ;
 
 
 ###  BauenUndWohnen
@@ -88,61 +88,62 @@
 ###  DemographischerWandel
 <DemographischerWandel> a skos:Concept ;
     skos:broader <MenschUndGesellschaft> ;
+    skos:inScheme <> ;
     skos:example "Demographie und ihre (zukünftigen) Folgen, Bevölkerungsentwicklung, Bevölkerungswissenschaft, Bevölkerungslehre, Bevölkerungsgeographie, Altersstruktur"@de ,
     "Demography and its (future) consequences, population development, population science, population theory, population geography, age structure"@en ;
     skos:prefLabel "Demographic change"@en ,
     "Demographischer Wandel"@de ;
     skos:scopeNote "Forschung zu verschiedenen Aspekten des demographischen Wandels (wie Alterung und Zuwanderung), dessen Folgen und Lösungsansätzen"@de ,
     "Research on various aspects of demographic change (such as aging and immigration), its consequences and possible solutions"@en .
-    skos:inScheme <> ;
 
 
 ###  DigitaleWirtschaft
 <DigitaleWirtschaft> a skos:Concept ;
     skos:broader <ArbeitUndWirtschaft> ;
+    skos:inScheme <> ;
     skos:example "Internet economy, digital goods, global digital economic system, new markets, digital economic sector, digital business models, new forms of business"@en ,
     "Internetwirtschaft, Digitale Güter, Globales digitales Wirtschaftssystem, Neue Märkte, Digitaler Wirtschaftssektor, Digitale Geschäftsmodelle, Neue Unternehmensformen"@de ;
     skos:prefLabel "Digital Economy"@en ,
     "Digitale Wirtschaft"@de ;
     skos:scopeNote "Forschung zu ökonomischen Fragestellungen, die sich mit Digitalisierung und deren Auswirkung beschäftigen; zu Konzepten der Digitalisierung von Wirtschaft"@de ,
     "Research on economic issues that deal with digitization and its effects; on concepts of digitization of the economy"@en .
-    skos:inScheme <> ;
+
 
 
 ###  EnergieerzeugungUndEnergieumwandlung
 <EnergieerzeugungUndEnergieumwandlung> a skos:Concept ;
     skos:broader <Technologie> ;
+    skos:inScheme <> ;
     skos:example "Wind energy, solar energy, water energy, alternative fuels, biological energy generation, energy transition, energy efficiency, energy use, hydrogen conversion, hydrogen storage, hydrogen energy technology, energy storage technologies, sector coupling, vehicle propulsion, machine propulsion, hypersonic propulsion, alternative propulsion technology, low-emission fuel, propulsion system, propulsion technology"@en ,
                 "Windenergie, Sonnenergie, Wasserenergie, Alternative Kraftstoffe, Biologische Energiegewinnung, Energiewende, Energieeffizienz, Energieverwendung, Wasserstoffumwandlung, Wasserstoffspeicherung, Wasserstoffenergietechnik, Energiespeichertechnologien, Sektorkopplung, Fahrzeugantrieb, Maschinenantrieb, Hyperschall-Antrieb, Alternative Antriebstechnologie, Emissionsarmer Treibstoff, Antriebssystem,  Antriebstechnologie"@de ;
     skos:prefLabel "Energieerzeugung und Energieumwandlung"@de ,
                   "Energy generation and energy conversion"@en ;
     skos:scopeNote "Forschung zu (neuen) Energieformen und erneuerbaren Energien und ihrer Erzeugung aus verschiedenen Quellen sowie der dazugehörigen Technologie zur Umwandlung und Umformung von Energie"@de ,
                   "Research on (new) forms of energy and renewable energies and their generation from various sources as well as the associated technology for converting and converting energy"@en .
-    skos:inScheme <> ;
 
 
 ###  EntsorgungUndRecycling
 <EntsorgungUndRecycling> a skos:Concept ;
     skos:broader <Industrie> ;
+    skos:inScheme <> ;
     skos:example "Abfallbeseitigung, Altlastensanierung, Gefahrstoff, Sonderabfall, Abfallverwertung, Abfallvermeidung, Abfallwirtschaft, Abfallreduzierung, Kreislaufwirtschaft"@de ,
     "Waste disposal, remediation of contaminated sites, hazardous materials, hazardous waste, waste recycling, waste avoidance, waste management, waste reduction, recycling management"@en ;
     skos:prefLabel "Entsorgung und Recycling"@de ,
     "Waste Disposal and recycling"@en ;
     skos:scopeNote "Forschung zu Recyclingprozessen und -verfahren; zu Entsorgung von Abfallprodukten und nuklearem Müll, Stoffkreisläufen und Lebenszyklen von Materialien"@de ,
     "Research on recycling processes and procedures; on the disposal of waste products and nuclear waste, material cycles and life cycles of materials"@en .
-    skos:inScheme <> ;
 
 
 ###  Entwicklungszusammenarbeit
 <Entwicklungszusammenarbeit> a skos:Concept ;
     skos:broader <GlobalisierungUndNachhaltigkeit> ;
+    skos:inScheme <> ;
     skos:example "Ländliche Entwicklung, Entwicklungsländerforschung, Development Studies, Entwicklungstheorie, Regionalstudien, Entwicklungsökonomie, Situation und Sicherstellung der Welternährung in Krisen-/Konfliktregionen"@de ,
     "Rural development, developing country research, development studies, development theory, regional studies, development economics, situation and securing world food in crisis / conflict regions"@en ;
     skos:prefLabel "Development Cooperation"@en ,
     "Entwicklungszusammenarbeit"@de ;
     skos:scopeNote "Forschung zur technischen, finanziellen, personellen, nationalen oder internationalen Zusammenarbeit; zu Bekämpfung von Armut sowie globalen und regionalen Partnerschaften"@de ,
     "Research on technical, financial, personal, national or international cooperation; on combating poverty as well as global and regional partnerships"@en .
-    skos:inScheme <> ;
 
 
 ###  ErdeUndKosmos
@@ -160,11 +161,12 @@ skos:topConceptOf <> .
 ###  ErdeUndKosmosAllgemein
 <ErdeUndKosmosAllgemein> a skos:Concept ;
     skos:broader <ErdeUndKosmos> ;
+    skos:inScheme <> ;
     skos:prefLabel "Earth and cosmos - General"@en ,
     "Erde und Kosmos - Allgemein"@de ;
     skos:scopeNote "Forschung über den Planeten Erde und den ihn umgebenden Kosmos im weitesten Sinne sowie Materie"@de ,
     "Research on the planet earth and the surrounding cosmos in the broadest sense as well as matter"@en .
-    skos:inScheme <> ;
+
 
 
 ###  GewaltKonflikteUndGefahrenabwehr
@@ -174,9 +176,9 @@ skos:topConceptOf <> .
                 "Organized crime, protection from violence, education and surveillance, resilience and protection of critical infrastructures, terrorism, civil security"@en ;
     skos:prefLabel "Gewalt, Konflikte und Gefahrenabwehr"@de ,
                   "Violence, conflicts and crisis prevention"@en ;
+    skos:inScheme <> ;
     skos:scopeNote "Forschung zur Bekämpfung von Kriminalität und Gewalt; zu Gefahren und Konflikten in einem Land und zwischen Ländern; zu politischer Diplomatie und Lösungen; zu friedliche Gesellschaften"@de ,
                   "Research on combating crime and violence; on dangers and conflicts in a country and between countries; on political diplomacy and solutions; on peaceful societies"@en .
-    skos:inScheme <> ;
 
 
 ###  GleichstellungDiversitaetUndInklusion
@@ -186,9 +188,9 @@ skos:topConceptOf <> .
                  "Inklusive Bildung, Vielfalt, Gleichberechtigung, Chancengleichheit, Frauenförderung, Gleichheit"@de ;
     skos:prefLabel "Equality, Diversity and Inclusion"@en ,
                    "Gleichstellung, Diversität und Inklusion"@de ;
+    skos:inScheme <> ;
     skos:scopeNote "Forschung zu Aspekten von Gleichstellung und Diversität in der Gesellschaft; zur sozialer Ungleichheit; zur Inklusion in Bildung und Gesellschaft; zu Gender und Feminismus"@de ,
                    "Research on aspects of equality and diversity in society; on social inequality; on inclusion in education and society; on gender and feminism"@en .
-    skos:inScheme <> ;
 
 ###  GlobalisierungUndNachhaltigkeit
 <GlobalisierungUndNachhaltigkeit> a   skos:Concept ;
@@ -204,22 +206,22 @@ skos:topConceptOf <> .
 ###  GlobalisierungUndNachhaltigkeitAllgemein
 <GlobalisierungUndNachhaltigkeitAllgemein> a   skos:Concept ;
     skos:broader <GlobalisierungUndNachhaltigkeit> ;
+    skos:inScheme <> ;
     skos:prefLabel "Globalisierung und Nachhaltigkeit - Allgemein"@de ,
                   "Globalization and Sustainability - General"@en ;
     skos:scopeNote "Forschung zur Globalisierung  und deren Auswirkung auf Wirtschaft, Gesellschaft und Umwelt sowie zur nachhaltigen Entwicklung dieser Bereiche; regionale Aspekte bzw. Entwicklung verschiedener Regionen der Erde unter internationalen Rahmenbedingungen"@de ,
                   "Research on globalization and its effects on economy, society and the environment as well as on the sustainable development of these areas; regional aspects and development of different regions of the world under international framework conditions"@en .
-    skos:inScheme <> ;
 
 ###  Halbleitertechnologie
 <Halbleitertechnologie> a skos:Concept ;
     skos:broader <Technologie> ;
+    skos:inScheme <> ;
     skos:example "Photonic crystals, quantum structure components, compound semiconductors, organic semiconductors, microprocessors, microchips, integrated circuits, integrated circuits, computer chips, intelligent sensors"@en ,
     "Photonische Kristalle, Quantenstrukturbauelemente, Verbindungshalbleiter, Organische Halbleiter, Mikroprozessor, Mikrochip, Integrierter Schaltkreis, Integrierte Schaltung, Computer chips, intelligente Sensoren"@de ;
     skos:prefLabel "Halbleitertechnologie"@de ,
     "Semiconductor technology"@en ;
     skos:scopeNote "Forschung zur technischen Herstellung mikroelektronischer und lichttechnischer Bauelemente und mikroelektronischer Baugruppen; zu Elementen wie Silizium"@de ,
     "Research on the technical production of microelectronic and lighting components and microelectronic assemblies; on elements such as silicon"@en .
-    skos:inScheme <> ;
 
 ###  Industrie
 <Industrie> a skos:Concept ;
@@ -233,46 +235,46 @@ skos:topConceptOf <> .
 
 
 ###  IndustrieAllgemein
-<IndustrieAllgemein> s kos:Concept ;
+<IndustrieAllgemein> a skos:Concept ;
     skos:broader <Industrie> ;
+    skos:inScheme <> ;
     skos:prefLabel "Industrie - Allgemein"@de ,
     "Industry - general"@en ;
     skos:scopeNote "Forschung zu Technologien und Verfahren der gewerblichen Verarbeitung von Rohstoffen im Allgemeinen"@de ,
     "Research on technologies and processes for the commercial processing of raw materials in general"@en .
-    skos:inScheme <> ;
 
 ###  Informationssicherheit
 <Informationssicherheit> a skos:Concept ;
     skos:broader <Informationstechnologie> ;
+    skos:inScheme <> ;
     skos:example "Data backup, security systems, data encryption, computer security, crypto procedures, cryptosystems, data protection"@en ,
     "Datensicherung, Sicherheitssysteme, Datenverschlüsselung, Computersicherheit, Kryptoverfahren, Kryptosysteme, Datenschutz"@de ;
     skos:prefLabel "Information security"@en ,
     "Informationssicherheit"@de ;
     skos:scopeNote "Forschung zu Sicherheit im digitalen Raum, Schutz vor Kriminalität im Internet, Hacking, Verteidigung gegen Angriffe auf digitale Systeme, Cybersicherheit"@de ,
     "Research on security in the digital space, protection against crime on the Internet, hacking, defense against attacks on digital systems, cybersecurity"@en .
-    skos:inScheme <> ;
 
 ###  Informationssysteme
 <Informationssysteme> a skos:Concept ;
     skos:broader <Informationstechnologie> ;
+    skos:inScheme <> ;
     skos:example "Data processing, communication systems, data structures, algorithms, user interfaces, human-machine interaction, knowledge technologies, software systems"@en ,
     "Datenverarbeitung, Kommunikationssysteme, Datenstrukturen, Algorithmen, Benutzerschnittstelle, Mensch-Maschine-Interaktion, Wissenstechnologien, Softwaresysteme"@de ;
     skos:prefLabel "Information systems"@en ,
     "Informationssysteme"@de ;
     skos:scopeNote "Forschung über Systeme zur Informationsgenerierung und -verarbeitung, auch im Hinblick auf die Schnittstelle zum Menschen und darauf bezogene Geschäftsprozesse; Cloud-Systeme und verteilte Systeme"@de ,
     "Research on systems for generating and processing information, also with regard to the human interface and related business processes; cloud systems and distributed systems"@en .
-    skos:inScheme <> ;
 
 ###  Informationstechnik
 <Informationstechnik> a skos:Concept ;
     skos:broader <Informationstechnologie> ;
+    skos:inScheme <> ;
     skos:example "ICT technology, communication technology, information and communication technology, information technology"@en ,
     "IuK-Technologie, Kommunikationstechnik, Informations- und Kommunikationstechnik, Informationstechnik"@de ;
     skos:prefLabel "Information technology engineering"@en ,
     "Informationstechnik"@de ;
     skos:scopeNote "Forschung zu Technik und Hardware für die Datenverarbeitung"@de ,
     "Research on technology and hardware for data processing"@en .
-    skos:inScheme <> ;
 
 ###  Informationstechnologie
 <Informationstechnologie> a skos:Concept ;
@@ -291,14 +293,14 @@ skos:topConceptOf <> .
 ###  InformationstechnologieAllgemein
 <InformationstechnologieAllgemein> a skos:Concept ;
     skos:broader <Informationstechnologie> ;
+    skos:inScheme <> ;
     skos:prefLabel "Information technology - general"@en ,
                   "Informationstechnologie - Allgemein"@de ;
     skos:scopeNote "Forschung zur Technologie und zum Einsatz dieser für die Informationsverarbeitung"@de ,
                   "Research on technology and its use for information processing"@en .
-    skos:inScheme <> ;
 
 ###  Infrastruktur
-<Infrastruktur> a kos:Concept ;
+<Infrastruktur> a skos:Concept ;
     skos:narrower <BallungsraeumeUndStadtentwicklung> ,
                <BauenUndWohnen> ,
                <InfrastrukturAllgemein> ,
@@ -462,7 +464,7 @@ skos:topConceptOf <> .
 
 
 ###  KulturAllgemein
-<KulturAllgemein> a kos:Concept ;
+<KulturAllgemein> a skos:Concept ;
     skos:broader <Kultur> ;
     skos:inScheme <> ;
     skos:prefLabel "Culture - general"@en ,
